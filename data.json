@@ -1,0 +1,7 @@
+<?php
+$myArr = array("Mobile", "Send", "Pay");
+
+$myJSON = json_encode($myArr);
+
+echo $myJSON;
+?>
